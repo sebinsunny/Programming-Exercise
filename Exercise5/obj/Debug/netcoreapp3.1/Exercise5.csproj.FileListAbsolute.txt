@@ -1,0 +1,12 @@
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.deps.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.dev.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.dll
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csprojAssemblyReference.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csproj.CoreCompileInputs.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfoInputs.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfo.cs
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.dll
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.genruntimeconfig.cache

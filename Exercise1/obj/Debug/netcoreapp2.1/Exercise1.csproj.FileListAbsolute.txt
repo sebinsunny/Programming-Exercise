@@ -1,0 +1,12 @@
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.deps.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.runtimeconfig.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.runtimeconfig.dev.json
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.dll
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.pdb
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.csprojAssemblyReference.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.csproj.CoreCompileInputs.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.AssemblyInfoInputs.cache
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.AssemblyInfo.cs
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.dll
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.pdb
+/Users/sebin/Documents/ProgrammingExercises-netcore/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.genruntimeconfig.cache
